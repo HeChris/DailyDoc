@@ -1,0 +1,7 @@
+20180831. today when use the dapper access the MSSQL,the script is ok,but when execute throw followwing exception
+
+   asp.net ExecuteReader requires an open and available Connection. The connection's current state is open 
+    i want figure out why got this error
+    
+
+
