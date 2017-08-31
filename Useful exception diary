@@ -13,6 +13,8 @@
     Once the connection is returned to the pool, it is ready to be reused on the next Open call.
 
    https://forums.iis.net/t/1192605.aspx
+   
+   https://social.msdn.microsoft.com/Forums/en-US/32ce6136-006f-40b4-9853-4906ff16232e/executereader-requires-an-open-and-available-connection-the-connections-current-state-is-open?forum=adodotnetdataproviders
     
 
 
